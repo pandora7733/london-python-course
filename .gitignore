@@ -1,0 +1,40 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.ipynb_checkpoints
+*.pkl
+*.h5
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code 관련
+.vscode/
+*.code-workspace
+
+# macOS 관련
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter 커널 관련 (선택 사항)
+.env/
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# 파이썬 가상환경 (선택 사항)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 기타 캐시
+.cache/
+*.tmp
+*.swp
+
+/Jlee
